@@ -1,0 +1,15 @@
+{
+ "wait": "Please wait bro",
+ "update": "Updating",
+ "stop": "Stoping",
+ "groupAdmin": "This command dedicated by group admins",
+ "groupOwner": "This command dedicated by group owner",
+ "botOwner": "This command dedicated by bot owner",
+ "owner": "This command dedicated by",
+ "group": "This command can only be used in groups",
+ "private": "This command can only be used in private chat",
+ "mods": "This command dedicated by moderators",
+ "premium": "This command dedicated by premium users",
+ "rpg": "RPG features are not active, please contact the owner to activate it",
+ "restrict": "Admin feature is not active, please contact the owner to activate it"
+}
